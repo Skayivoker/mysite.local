@@ -1,1 +1,9 @@
-.button
+
+table{
+    border:2px solid black;
+}
+td{
+    align: left;
+    border:2px solid black;
+    padding: 10px;
+}
